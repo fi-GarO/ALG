@@ -1,0 +1,10 @@
+**/nbproject/private/
+build/
+dist/
+.DS_Store
+/Shapes/target/
+/turyna_Bank/target/
+/CompetitionText/target/
+/Fractions/target/
+/Turyna_Hurricanes/target/
+/Turyna_ALG2_sem_Netfllix/target/
